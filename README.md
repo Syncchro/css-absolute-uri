@@ -1,6 +1,6 @@
 # grunt-css-absolute-uri
 
-> Very simple replace uris in css files.
+Very simple replace uris in css files.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.4`
@@ -51,7 +51,11 @@ A list of string value that you escape, for example, fonts uris (.eto, woff, etc
 ### Usage Examples
 
 #### Default
-In this example, all uris from files *file_css_1.css'* and *file_css_2.css* will change to *url("http://cdn.test.com/images/jquery-ui/#####.png")*.
+In this example, all uris from files **file_css_1.css** and **file_css_2.css** will change to 
+
+```css
+url("http://cdn.test.com/images/jquery-ui/#####.png")
+```
 
 ```js
 grunt.initConfig({
