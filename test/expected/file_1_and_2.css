@@ -1,0 +1,18 @@
+.ui-a { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_b65e00_256x240.png"); }
+.ui-b { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_b65e00_256x240.png"); }
+.ui-c { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_005a94_256x240.png"); }
+.ui-d { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_003e66_256x240.png"); }
+.ui-e { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_ffffff_256x240.png"); }
+.ui-f { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_454545_256x240.png"); }
+.ui-g { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_005a94_256x240.png"); }
+.ui-h { background-image: url("http://cdn.test.com/images/jquery-ui/ui-icons_d10000_256x240.png"); }
+@font-face {
+    font-family: "gui-synchro";
+    src: url("http://cdn.test.com/images/jquery-ui/gui-synchro.eot");
+    src: url("http://cdn.test.com/images/jquery-ui/gui-synchro.eot?#iefix") format("embedded-opentype"),
+    url("http://cdn.test.com/images/jquery-ui/gui-synchro.ttf") format("truetype"),
+    url("http://cdn.test.com/images/jquery-ui/gui-synchro.svg#gui-synchro") format("svg"),
+    url("http://cdn.test.com/images/jquery-ui/gui-synchro.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
